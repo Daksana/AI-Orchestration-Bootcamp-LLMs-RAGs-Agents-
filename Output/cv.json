@@ -1,0 +1,55 @@
+{
+  "name": "ANUVA GOYAL",
+  "email": "anuvagoyal111@gmail.com",
+  "phone": null,
+  "summary": "Anuva Goyal is an aspiring professional with a strong background in Machine Learning, Natural Language Processing (NLP), and Computer Vision. She has practical experience in web scraping, topic modeling, Optical Character Recognition (OCR), and face recognition through various internships. Her academic foundation is in Electrical Engineering with a Computer Science Specialisation, complemented by extensive training in deep learning and data science. Anuva has also demonstrated her capabilities through achievements in ML/AI events and competitions.",
+  "skills": [
+    "C, C++",
+    "Python, SQL",
+    "Data Structures",
+    "CSS, HTML",
+    "NumPy",
+    "Pandas",
+    "Tensorflow",
+    "Scikit-Learn",
+    "OpenCV",
+    "Pytesseract",
+    "BeautifulSoup"
+  ],
+  "education": [
+    {
+      "school": "Dayalbagh Educational Institute, Agra",
+      "degree": "B.Tech, Electrical Engineering with Computer Science Specialisation",
+      "start_year": "2019",
+      "end_year": "Present"
+    },
+    {
+      "school": "St. Clare's Senior Secondary School, Agra",
+      "degree": "Higher Secondary School Certificate",
+      "start_year": null,
+      "end_year": "2019"
+    },
+    {
+      "school": "St. Clare's Senior Secondary School, Agra",
+      "degree": "Secondary School Certificate",
+      "start_year": null,
+      "end_year": "2017"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Genisup India Pvt. Ltd.",
+      "position": "Summer Intern",
+      "start_date": "June 2021",
+      "end_date": "Aug 2021",
+      "description": "Internship on the topic NLP: Topic Modeling to assign the theme or topic for any news article on internet using Machine Learning techniques. Worked on proxy rotation and Web Scraping. Performed LDA Topic Modeling on \"The Hindu\" news articles and obtained precision score of 0.906."
+    },
+    {
+      "company": "VUGS Technologies Pvt. Ltd.",
+      "position": "Intern Trainee",
+      "start_date": "May 2021",
+      "end_date": "June 2021",
+      "description": "Built an OCR using Pytesseract and NER Text Classification Model to categorize detected text into Name, E-mail Address, Phone number and Date using NLTK, SpaCy and BERT. Created an OCR for Handwritten text [A-Z, 0-9] using CNN architecture. Built a Face Recognition Model and Face Mask Detection Model using OpenCV and Haar Cascade Classifier."
+    }
+  ]
+}
